@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<groupId>com.kk</groupId>
-	<artifactId>maven-web-application-Airtel-Dev</artifactId>
+	<artifactId>maven-web-application-FlipKart-Dev</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	
@@ -21,7 +21,7 @@
 		<spring.version>5.3.34</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://54.83.101.40:9000/</sonar.host.url>
+		<sonar.host.url>http://54.174.233.143:9000/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>admin123</sonar.password> 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>KK FUNDA Releases Nexus Repository</name>
-	      <url>http://172.31.40.189:8081/repository/flipkart-release/</url>
+	      <url>http://54.164.120.125:8081/repository/malik-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>KK FUNDA Snapshot Nexus Repository </name>
-	      <url>http://54.83.68.7:8081/repository/malik-release/</url>
+	      <url>http://54.164.120.125:8081/repository/malik-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
