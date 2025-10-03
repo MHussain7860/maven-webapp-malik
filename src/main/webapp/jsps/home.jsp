@@ -144,7 +144,7 @@
         <p><b>Address:</b> Newyork and Bengaluru</p>
         <p><b>Phone:</b> +91-9916390090</p>
         <p><b>Email:</b> <a href="mailto:malikkeducationblr@gmail.com">malikeducationblr@gmail.com</a></p>
-        <a href="mailto:malikeducation@gmail.com" class="btn btn-custom mt-2">📧 Mail to KK FUNDA</a>
+        <a href="mailto:malikeducation@gmail.com" class="btn btn-custom mt-2">📧 Mail to MALIK FUNDA</a>
     </div>
 
     <!-- Service Links -->
