@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>KK FUNDA Home Page</title>
+    <title>MALIK FUNDA Home Page</title>
     <link href="images/kkfunda.jpg" rel="icon">
     <!-- Bootstrap CDN -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -84,7 +84,7 @@
 <body>
 
 <header>
-    <h1>🚀 Welcome to MalikHussain Devops & Cloud Engineer Training  Portal 🚀</h1>
+    <h1>🚀 Welcome to MalikHussain Devops & SRE Training  Portal 🚀</h1>
     <h3>Training | Development | Consulting</h3>
 </header>
 
