@@ -84,7 +84,7 @@
 <body>
 
 <header>
-    <h1>🚀 Welcome to MalikHussain Devops,cloud & SRE Training  Portal 🚀</h1>
+    <h1>🚀 Welcome to MalikHussain Devops and Cloud Architect Training  Portal 🚀</h1>
     <h3>Training | Development | Consulting</h3>
 </header>
 
