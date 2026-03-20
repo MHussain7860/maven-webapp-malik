@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: javawebapp
-        image: malikhussain/maven-web-app-jenkins:1996
+        image: malikhussain/malikwebapp:v3.20
         ports:
         - containerPort: 8080
 ---
