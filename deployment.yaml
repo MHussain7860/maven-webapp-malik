@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: javawebapp
-        image: malikhussain/malikwebapp:v3.20
+        image: malikhussain/malikwebapp:v3.21
         ports:
         - containerPort: 8080
 ---
