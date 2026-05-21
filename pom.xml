@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>KK FUNDA Releases Nexus Repository</name>
-	      <url>http://13.220.216.15:8081/repository/malik-release/</url>
+	      <url>http://35.171.87.223:8081/repository/malik-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>KK FUNDA Snapshot Nexus Repository </name>
-	      <url>http://13.220.216.15:8081/repository/malik-snapshot/</url>
+	      <url>http://35.171.87.223:8081/repository/malik-snapshotrepo/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
