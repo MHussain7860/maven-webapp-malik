@@ -25,7 +25,7 @@ pipeline {
 
         stage("Container creating") {
             steps{
-                sh "docker run -d --name malikapp-prod -p 8084:8080 malikhussain/web-app-prod:v3 "
+                sh "docker run -d --name malikapp-prod2 -p 8085:8080 malikhussain/web-app-prod:v3 "
             }
         }
     }
