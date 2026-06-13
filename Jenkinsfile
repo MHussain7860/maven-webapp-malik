@@ -19,13 +19,13 @@ pipeline {
         }
         stage("Building the Docker image") {
             steps{
-                sh "docker build -t malikhussain/web-app ."
+                sh "docker build -t malikhussain/web-app-prod:v3 ."
             }
         }
 
         stage("Container creating") {
             steps{
-                sh "docker run -d --name malikapp-prod -p 8084:8080 malikhussain/web-app "
+                sh "docker run -d --name malikapp-prod -p 8084:8080 malikhussain/web-app-prod:v3 "
             }
         }
     }
